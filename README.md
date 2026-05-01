@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @ageslome
+- 👋 Hi, I’m @ageslome, agecus
 - 👀 I’m interested in wartech (coinbase command center), NFTs (art, music, vids), HES (Human Enhancement Systems), and cryptobloc tech.
-- 🌱 I’m currently learning how to develop godhood technologies.
+- 🌱 I’m currently learning how to develop wartech technologies.
 - 💞️ I’m looking to collaborate on Sports NFTs technologies.
 - 📫 How to reach me chung_storm@yahoo.com
 
-Goal: Crypto Consultant : consulting on cryptocurrency and blockchain technologies.
-Looking to join a company that would allow me to carry out business development and integration of cryptocurrency blockchain technologies.
+Goal: Consultant on technologies.
+Looking to join a company that would allow me to carry out business development and integration of technologies.
 
 Current personal projects:
 1. Architect, developer, and implementation of human enhancement systems. Platforms include cryptobloc tech and goldbacks. Cryptobloc platforms include xrp, stellar, nem, tron. Goldback(Valaurum).
