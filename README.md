@@ -19,8 +19,8 @@ econotriad : capitalism - communism - socialism  https://seasidecity3.wixsite.co
 5. AR (augmented reality) seaside, oregon, usa https://x.com/i/grok/share/ed10267d47de45afb0e42ad48a28fccf
 
 Prime Directive is in effect. 
-Warmaster Agecus
-coinbase command center : nra codex : ark - spark : deck of agecus 
+Warmaster Agecus.
+coinbase command center : nra codex : ark - spark : deck of agecus.
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
