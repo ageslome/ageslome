@@ -20,3 +20,6 @@ econotriad : capitalism - communism - socialism  https://seasidecity3.wixsite.co
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Prime Directive is in effect 
+Warmaster Agecus
