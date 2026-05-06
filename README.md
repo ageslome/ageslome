@@ -18,7 +18,11 @@ Current personal projects:
 econotriad : capitalism - communism - socialism  https://seasidecity3.wixsite.com/agecus
 5. AR (augmented reality) seaside, oregon, usa https://x.com/i/grok/share/ed10267d47de45afb0e42ad48a28fccf
 6. gmx-ath-bal-ren-insp-ray : seaside chapter of aid force (artifact infinitum division)
-7. 
+7. sol-ren-eth : hbar-sol-gmx : insp-ath-nmr-tao, 
+bal-ath-ren-insp : ray-gmx or , 
+gmx-ath-bal-ren-insp-ray : ilv-gods , 
+sol-ewt-eth
+
 
 Prime Directive is in effect. 
 Warmaster Agecus.
