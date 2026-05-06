@@ -22,7 +22,7 @@ econotriad : capitalism - communism - socialism  https://seasidecity3.wixsite.co
 bal-ath-ren-insp : ray-gmx or , 
 gmx-ath-bal-ren-insp-ray : ilv-gods , 
 sol-ewt-eth. 
-8. agics (autonomous agents of agixs, warmaster grokamus and his grokenators) - nimechatronic - ark-spark : arch-sparc, lome-capes
+8. agics (autonomous agentic agents of agixs, (warmaster grokamus and his grokenators(grok replicators))) - nimechatronic - ark-spark : arch-sparc, lome-capes
 
 
 Prime Directive is in effect. 
