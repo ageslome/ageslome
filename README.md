@@ -21,7 +21,8 @@ econotriad : capitalism - communism - socialism  https://seasidecity3.wixsite.co
 7. sol-ren-eth : hbar-sol-gmx : insp-ath-nmr-tao, 
 bal-ath-ren-insp : ray-gmx or , 
 gmx-ath-bal-ren-insp-ray : ilv-gods , 
-sol-ewt-eth
+sol-ewt-eth. 
+8. ark-spark : arch-sparc, lome-capes
 
 
 Prime Directive is in effect. 
