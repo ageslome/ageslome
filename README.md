@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ageslome, agecus
-- Model context engineering using server-client and p2p JEE, and grok ai
+- Model context engineering using server-client and p2p JEE (java platform, enterprise edition) & jse, and grok ai
 - 👀 I’m interested in wartech (coinbase command center), NFTs (art, music, vids), HES (Human Enhancement Systems), and cryptobloc tech.
 - 🌱 I’m currently learning how to develop wartech technologies.
 - 💞️ I’m looking to collaborate on Sports NFTs technologies.
