@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ageslome, agecus
+- 👋 Hi, I’m @ageslome, warmaster agecus of the great war.
 - Model context engineering using server-client and p2p JEE (java platform, enterprise edition) & jse:ada (original), and grok ai
 - 👀 I’m interested in wartech (coinbase command center), NFTs (art, music, vids), HES (Human Enhancement Systems), and cryptobloc tech.
 - 🌱 I’m currently learning how to develop wartech technologies.
@@ -29,7 +29,7 @@ CPU vs GPU.
 Let there be war!
 Prime Directive is in effect. 
 Warmaster Agecus.
-coinbase command center : nra codex : ark - spark : deck of agecus.
+coinbase command center : nra codex : ark - spark : deck of agecus.  The great war. 
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
