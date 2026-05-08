@@ -29,7 +29,7 @@ CPU vs GPU.
 Let there be war!
 Prime Directive is in effect. 
 Warmaster Agecus.
-coinbase command center : nra codex : ark - spark : deck of agecus.  The great war. 
+coinbase command center : nra codex : ark - spark : deck of agecus.  The great war. The evolutionary algorithmic purity permeates from soul to all manifestations to infinity. 
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
