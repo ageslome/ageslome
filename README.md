@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning how to develop wartech technologies.
 - 💞️ I’m looking to collaborate on Sports NFTs technologies.
 - 📫 How to reach me chung_storm@yahoo.com
-- Ages.aegis.aigis.agix.regeos 
+- Ages.aegis.aigis.agix.regeos
+- Ages.aegis.aigis.agix.kore llm
 - Nimrodian.roman.american codex
 - https://www.threads.com/@seasidecity3/post/DRWhxKDEQyl?xmt=AQF0iO2Doyt2JFqCWMGDU7yTTXZBgPtEG190-CTMKkR0oVweFKKYE1a1WUn4uEAcheazy6XK&slof=1
 
