@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Sports NFTs technologies.
 - 📫 How to reach me chung_storm@yahoo.com
 - Ages.aegis.aigis.agix.jagixek (java agix tek)
+- Ages.aegis.aigis.agix.niyac (nimrodian yet another compiler)
 - Ages.aegis.aigis.agix.regeos
 - Ages.aegis.aigis.agix.kore llm
 - Nimrodian.roman.american codex
