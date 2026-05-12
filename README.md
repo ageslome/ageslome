@@ -34,7 +34,8 @@ sol-ewt-eth.
 - Warmaster Agecus.
 - coinbase command center : nra codex : ark - spark : deck of agecus.
 - The great war.
-- The evolutionary algorithmic purity permeates from soul to all manifestations to infinity. 
+- The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
+- Houses SISD : SIMD : MISD : MIMD : The Emperor Protects!
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
