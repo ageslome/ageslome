@@ -1,3 +1,4 @@
+The AI Cryptobloc military industrial complex. 
 - 👋 Hi, I’m @ageslome, warmaster agecus of the great war.
 - Model context engineering using server-client and p2p JEE (java platform, enterprise edition) & jse:ada (original), and grok ai
 - 👀 I’m interested in wartech (coinbase command center), NFTs (art, music, vids), HES (Human Enhancement Systems), and cryptobloc tech.
