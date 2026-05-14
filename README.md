@@ -1,4 +1,4 @@
-The AI Cryptobloc military industrial complex. 
+The AI Cryptobloc military industrial complex. aicmic
 - 👋 Hi, I’m @ageslome, warmaster agecus of the great war.
 - Model context engineering using server-client and p2p JEE (java platform, enterprise edition) & jse:ada (original), and grok ai
 - 👀 I’m interested in wartech (coinbase command center), NFTs (art, music, vids), HES (Human Enhancement Systems), and cryptobloc tech.
@@ -37,6 +37,7 @@ sol-ewt-eth.
 - The great war.
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
 - Houses SISD : SIMD : MISD : MIMD : The Emperor Protects!
+- Houses Computing : Communicating : Memory
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
