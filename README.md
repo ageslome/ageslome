@@ -38,6 +38,10 @@ sol-ewt-eth.
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
 - Houses SISD : SIMD : MISD : MIMD : The Emperor Protects!
 - Houses Computing : Communicating : Memory
+- ----------------------------------
+- Archon : ark-spark
+
+
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
