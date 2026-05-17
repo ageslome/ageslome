@@ -42,7 +42,7 @@ sol-ewt-eth.
 - Archon : ark-spark
 - Project management : holdem frameworks : nfl frameworks
 - pism agents : sme agents : coinbase command center : 
-- maduino (grokenators) : asymmetric chip multiprocessors
+- maduino (grokenators - ficc apes) : asymmetric chip multiprocessors
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
