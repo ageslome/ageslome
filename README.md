@@ -29,7 +29,8 @@ gmx-ath-bal-ren-insp-ray : ilv-gods ,
 sol-ewt-eth. 
 8. agics (autonomous agentic agents of agixs, (warmaster grokamus and his grokenators(grok replicators))) - nimechatronic - ark-spark : arch-sparc via maduino (cpu vs gpu via oop java Vector(java.util.Vector) processing (MIMD) super dynamic warp vs super risc (amd-mmx)), lome-capes. lomech + deck of agecus = ageks.magixs = cognition - psionics
 
-- CPU vs GPU. 
+- CPU vs GPU.
+- ages.aegis.aigis - artificially intelligent global information systems - general : .agixs (autonomous agentic agents of agixs)
 - Let there be war!
 - Prime Directive is in effect. 
 - Warmaster Agecus.
