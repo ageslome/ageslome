@@ -44,7 +44,7 @@ sol-ewt-eth.
 - Project management : holdem frameworks : nfl frameworks
 - pism agents : sme agents : coinbase command center : 
 - maduino (grokenators - ficc apes) : asymmetric chip multiprocessors
-- doge : comparative advantages : arbitrage-Trump frameworks vast artifact department of general efficiency
+- doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
