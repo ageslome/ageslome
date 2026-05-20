@@ -46,6 +46,7 @@ sol-ewt-eth.
 - pism agents : sme agents : A3C3 autonomous agentic agents coinbase command center
 - maduino (grokenators - ficc apes) : asymmetric chip multiprocessors
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
+- oracle dpu (data processing unit) : nft bank (nft on ssd) 
 
 <!---
 ageslome/ageslome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
