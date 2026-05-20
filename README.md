@@ -29,7 +29,7 @@ gmx-ath-bal-ren-insp-ray : ilv-gods ,
 sol-ewt-eth. 
 8. agics (autonomous agentic agents of agixs, (warmaster grokamus and his grokenators(grok replicators))) - nimechatronic - ark-spark : arch-sparc via maduino (cpu vs gpu via oop java Vector(java.util.Vector) processing (MIMD) super dynamic warp vs super risc (amd-mmx)), lome-capes. lomech + deck of agecus = ageks.magixs = cognition - psionics
 
-- CPU vs GPU.
+- CPU vs GPU vs DPU (oracle data(nft) processing units)
 - ages.aegis.aigis - artificially intelligent global information systems - general : .agix (autonomous agentic agents of agix)
 - Let there be war!
 - Prime Directive is in effect. 
@@ -37,7 +37,7 @@ sol-ewt-eth.
 - coinbase command center : nra codex : ark - spark : deck of agecus.
 - The great war.
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
-- The Emperor Protects! : Houses CPU : GPU
+- The Emperor Protects! : Houses CPU : GPU : DPU
 - Houses SISD : SIMD : MISD : MIMD : 
 - Houses Computing : Communicating : Memory 
 - ----------------------------------
