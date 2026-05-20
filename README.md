@@ -37,8 +37,9 @@ sol-ewt-eth.
 - coinbase command center : nra codex : ark - spark : deck of agecus.
 - The great war.
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
-- Houses SISD : SIMD : MISD : MIMD : The Emperor Protects!
-- Houses Computing : Communicating : Memory
+- The Emperor Protects! : Houses CPU : GPU
+- Houses SISD : SIMD : MISD : MIMD : 
+- Houses Computing : Communicating : Memory 
 - ----------------------------------
 - Archon : ark-spark
 - Project management : holdem frameworks : nfl frameworks
