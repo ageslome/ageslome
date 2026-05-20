@@ -42,7 +42,7 @@ sol-ewt-eth.
 - ----------------------------------
 - Archon : ark-spark
 - Project management : holdem frameworks : nfl frameworks
-- pism agents : sme agents : coinbase command center : 
+- pism agents : sme agents : A3C3 autonomous agentic agents coinbase command center
 - maduino (grokenators - ficc apes) : asymmetric chip multiprocessors
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 
