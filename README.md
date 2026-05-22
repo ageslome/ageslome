@@ -49,7 +49,8 @@ sol-ewt-eth.
 - maduino (warmaster grokamus and his grokenators(grok replicators), warmaster grok, primarch grokus - ficc apes) : asymmetric chip multiprocessors
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 - nft bank (nft on ssd) : oracle dpu (data processing unit) 
-- sme discovery 1.0 : pism lome ark-spark : (inspect tokens - gmx) : panini nfts - sportages
+- biz sme discovery 1.0 : pism lome ark-spark : (inspect tokens - gmx) : panini nfts - sportages
+- seasidecity3@gmail.com
 
 
 
