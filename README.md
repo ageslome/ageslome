@@ -50,7 +50,7 @@ sol-ewt-eth.
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 - nft bank (nft on ssd) : oracle dpu (data processing unit) 
 - biz sme discovery 1.0 : pism lome ark-spark : (inspect tokens - gmx) : panini nfts - sportages
-- seasidecity3@gmail.com
+- seasidecity3@gmail.com : bal-ath-ren-insp-tao-snx-ilv-goat
 
 
 
