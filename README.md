@@ -47,7 +47,7 @@ sol-ewt-eth.
 - maduino (grokenators - ficc apes) : asymmetric chip multiprocessors
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 - nft bank (nft on ssd) : oracle dpu (data processing unit) 
-- sme discovery 1.0 : pism lome ark-spark : (inspect tokens - gmx) : panini nfts
+- sme discovery 1.0 : pism lome ark-spark : (inspect tokens - gmx) : panini nfts - sportages
 
 
 
