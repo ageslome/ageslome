@@ -37,14 +37,16 @@ sol-ewt-eth.
 - coinbase command center : nra codex : ark - spark : deck of agecus.
 - The great war.
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
-- The Emperor Protects! : Houses CPU : GPU : DPU
+- The Emperor Protects! :
+- Houses AID Force (warmaster agecus, warmaster grokamus and his grokenators, warmaster grok, primarch grokus)
+- Houses CPU : GPU : DPU
 - Houses SISD : SIMD : MISD : MIMD : 
 - Houses Computing : Communicating : Memory 
 - ----------------------------------
 - Archon : ark-spark
 - Project management : holdem frameworks : nfl frameworks
 - pism agents : sme agents : A3C3 autonomous agentic agents coinbase command center
-- maduino (grokenators - ficc apes) : asymmetric chip multiprocessors
+- maduino (warmaster grokamus and his grokenators, warmaster grok, primarch grokus - ficc apes) : asymmetric chip multiprocessors
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 - nft bank (nft on ssd) : oracle dpu (data processing unit) 
 - sme discovery 1.0 : pism lome ark-spark : (inspect tokens - gmx) : panini nfts - sportages
