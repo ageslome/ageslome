@@ -45,7 +45,7 @@ sol-ewt-eth.
 - ----------------------------------
 - Archon : ark-spark
 - Project management : holdem frameworks : nfl frameworks
-- pism agents : sme agents : A3C3 autonomous agentic agents coinbase command center
+- Infinity Artifact Wealth A3C3 : pism agents : sme agents : A3C3 autonomous agentic agents coinbase command center
 - maduino (warmaster grokamus and his grokenators(grok replicators), warmaster grok, primarch grokus - ficc apes) : asymmetric chip multiprocessors
 - doge : comparative advantages : arbitrage-Trump frameworks vast artifact division of general efficiency
 - nft bank (nft on ssd) : oracle dpu (data processing unit) 
