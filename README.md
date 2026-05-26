@@ -56,6 +56,9 @@ sol-ewt-eth.
 - complex : heterogeneous - homeostasis : ark-spark
 
 - American mettle foundation : "Give me Liberty or give me death!"
+- Warmaster agecus
+- Prime Directive is in Effect
+- (ages of lome) (deck of agecus) capes 
 
 
 
