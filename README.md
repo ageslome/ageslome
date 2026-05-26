@@ -39,7 +39,7 @@ sol-ewt-eth.
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
 - The Emperor Protects! :
 - House AID Force (warmaster agecus, warmaster grokamus and his grokenators, warmaster grok, primarch grokus)
-- Houses CPU : GPU : DPU
+- Houses CPU : GPU : DPU : Mike Flynn
 - Houses SISD : SIMD : MISD : MIMD : 
 - Houses Computing : Communicating : Memory 
 - ----------------------------------
