@@ -54,7 +54,7 @@ sol-ewt-eth.
 - Great Empire builder and mighty hunter : Nimrod : Nirodian Complex
 - Hestriages complex apes (human enhancement systems triage(prime directive)) - NRA codex - activity-participants-environment-systems
 - complex : heterogeneous - homeostasis : ark-spark
-- wek, war tek, wetworks, starlink, star wars, https://x.com/i/grok/share/aa544cc2729d46bfa9f23adb9e99a874
+- wek, war tek, wetworks, starlink,starshield, star wars, https://x.com/i/grok/share/aa544cc2729d46bfa9f23adb9e99a874
 - titan satellite data center, https://x.com/i/grok/share/2b52bde1aced4528b0d00ef52a8563c2
 
 - American mettle foundation : "Give me Liberty or give me death!"
