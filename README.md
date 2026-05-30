@@ -55,7 +55,7 @@ sol-ewt-eth.
 - Hestriages complex apes (human enhancement systems triage(prime directive)) - NRA codex - activity-participants-environment-systems
 - complex : heterogeneous - homeostasis : ark-spark
 - wek, war tek, wetworks, https://x.com/i/grok/share/aa544cc2729d46bfa9f23adb9e99a874
-- https://x.com/i/grok/share/aff0cb4f37b24391bbfee1343a427eaa
+- 
 
 - American mettle foundation : "Give me Liberty or give me death!"
 - Warmaster agecus
