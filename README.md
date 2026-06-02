@@ -34,7 +34,7 @@ sol-ewt-eth.
 - Let there be war! https://x.com/i/grok/share/1989c16435ee4a21b99e96ac0b1a8f44
 - Prime Directive is in effect. 
 - Warmaster Agecus.
-- coinbase command center : nra codex : ark - spark : deck of agecus.
+- coinbase command center : nra codex : ark - spark : deck of agecus. https://x.com/i/grok/share/f757ae9cb02c40229bc38b40b87b8760
 - The great war. https://www.youtube.com/watch?v=SbT-Hd5LtGA
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
 - The Emperor Protects! :
