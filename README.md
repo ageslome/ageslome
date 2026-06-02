@@ -31,7 +31,7 @@ sol-ewt-eth.
 
 - CPU Force vs GPU Force vs DPU Force (oracle data(nft) processing units)
 - ages.aegis.aigis - artificially intelligent global information systems - general : .agix (autonomous agentic agents of agix)
-- Let there be war!
+- Let there be war! https://x.com/i/grok/share/1989c16435ee4a21b99e96ac0b1a8f44
 - Prime Directive is in effect. 
 - Warmaster Agecus.
 - coinbase command center : nra codex : ark - spark : deck of agecus.
