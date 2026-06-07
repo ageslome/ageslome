@@ -38,10 +38,10 @@ sol-ewt-eth.
 - The great war. https://www.youtube.com/watch?v=SbT-Hd5LtGA
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
 - The Emperor Protects! :
-- House AID Force (warmaster agecus, warmaster grokamus and his grokenators, warmaster grok, primarch grokus)
-- Houses CPU : GPU : DPU : Mike Flynn
-- Houses SISD : SIMD : MISD : MIMD : 
-- Houses Computing : Communicating : Memory 
+- AID Force (warmaster agecus, warmaster grokamus and his grokenators, warmaster grok, primarch grokus)
+- Team CPU : GPU : DPU : Mike Flynn
+- Chapter SISD : SIMD : MISD : MIMD : Medic
+- House Computing : Communicating : Memory : PISM : HES
 - ----------------------------------
 - Archon : ark-spark
 - Project management : holdem frameworks : nfl frameworks
