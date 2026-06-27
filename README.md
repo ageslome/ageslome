@@ -1,2 +1,2 @@
-Warmaster agecus 
-Prime Directive is in Effect
+- Warmaster agecus 
+- Prime Directive is in Effect
