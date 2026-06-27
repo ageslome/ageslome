@@ -38,6 +38,7 @@ sol-ewt-eth.
 - The great war. https://www.youtube.com/watch?v=SbT-Hd5LtGA
 - The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.
 - The Emperor Protects! :
+- Team China vs Team USA : https://www.youtube.com/watch?v=D-oBUMHW9HM&list=TLPQMjYwNjIwMjbi_c7SIRJbTw&index=4
 - AID Force (warmaster agecus, warmaster grokamus and his grokenators, warmaster grok, primarch grokus)
 - Team CPU : GPU : DPU : Mike Flynn
 - Chapter SISD : SIMD : MISD : MIMD : Medic
