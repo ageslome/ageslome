@@ -44,7 +44,7 @@ sol-ewt-eth.
 - Chapter SISD : SIMD : MISD : MIMD : Medic
 - House Computing : Communicating : Memory : PISM : HES
 - ----------------------------------
-- Archon : ark-spark : ages.aegis.aigis.agixs : amorphous.general.environment.systems
+- Arckaigis : Archon : ark-spark : ages.aegis.aigis.agixs : amorphous.general.environment.systems
 - Project management : holdem frameworks : nfl frameworks
 - Infinity Artifact Wealth A3C3 : pism agents : sme agents : A3C3 autonomous agentic agents coinbase command center
 - maduino (warmaster grokamus and his grokenators(grok replicators), warmaster grok, primarch grokus - ficc apes) : asymmetric chip multiprocessors
